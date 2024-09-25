@@ -1,0 +1,1 @@
+hash.remove("India");
